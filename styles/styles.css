@@ -225,7 +225,7 @@ main {
     nav,
     .teams-container,
     .facts-card-container,
-    .sponsors-img-containe,
+    .sponsors-img-container,
     .features
     {
         flex-direction: column;
